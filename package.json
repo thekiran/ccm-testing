@@ -1,0 +1,21 @@
+{
+  "name": "www.cleaningcompanymanchester.co.uk",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel index.html",
+    "build": "parcle build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thekiran/ccm.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thekiran/ccm/issues"
+  },
+  "homepage": "https://github.com/thekiran/ccm"
+}
